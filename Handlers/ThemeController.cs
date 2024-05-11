@@ -1,7 +1,7 @@
-﻿using MD5_CheckSummer.Properties;
+﻿using LLM.MD5_CheckSummer.Properties;
 
 //Not much goin here, just a themes controller that can switch up between theme backs
-namespace MD5_CheckSummer.Handlers
+namespace LLM.MD5_CheckSummer.Handlers
 {
     public enum Themes
     {

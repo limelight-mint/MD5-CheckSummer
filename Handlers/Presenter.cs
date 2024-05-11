@@ -1,6 +1,6 @@
-﻿using MD5_CheckSummer.Data;
+﻿using LLM.MD5_CheckSummer.Data;
 
-namespace MD5_CheckSummer.Handlers
+namespace LLM.MD5_CheckSummer.Handlers
 {
     //class to present our UI in a nicely and clean way
     //basically we just divide and conquer, instead of making a mess in Program.cs which is just a point of enter, not a god class, u know

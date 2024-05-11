@@ -1,9 +1,9 @@
-using MD5_CheckSummer.Data;
-using MD5_CheckSummer.Handlers;
+using LLM.MD5_CheckSummer.Data;
+using LLM.MD5_CheckSummer.Handlers;
 
-namespace MD5_CheckSummer
+namespace LLM.MD5_CheckSummer
 {
-    public partial class MD5_CheckSummer : Form
+    public partial class CheckSummer : Form
     {
         private string filename = "sum";
         private string separator = ":";
@@ -11,7 +11,7 @@ namespace MD5_CheckSummer
         private Hasher hasher;
         private Presenter presenter;
 
-        public MD5_CheckSummer()
+        public CheckSummer()
         {
             InitializeComponent();
 

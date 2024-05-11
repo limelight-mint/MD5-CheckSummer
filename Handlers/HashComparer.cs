@@ -1,7 +1,7 @@
 ﻿using System.Text;
-using MD5_CheckSummer.Data;
+using LLM.MD5_CheckSummer.Data;
 
-namespace MD5_CheckSummer.Handlers
+namespace LLM.MD5_CheckSummer.Handlers
 {
     internal class HashComparer
     {

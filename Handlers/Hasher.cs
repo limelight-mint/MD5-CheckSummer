@@ -1,8 +1,8 @@
 ﻿
-using MD5_CheckSummer.Data;
+using LLM.MD5_CheckSummer.Data;
 using System.Security.Cryptography;
 
-namespace MD5_CheckSummer.Handlers
+namespace LLM.MD5_CheckSummer.Handlers
 {
     //class that contains all compute hashing for encoding
     internal class Hasher

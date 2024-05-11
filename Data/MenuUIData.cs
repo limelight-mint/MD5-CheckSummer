@@ -1,6 +1,6 @@
-﻿using MD5_CheckSummer.Handlers;
+﻿using LLM.MD5_CheckSummer.Handlers;
 
-namespace MD5_CheckSummer.Data
+namespace LLM.MD5_CheckSummer.Data
 {
     internal class MenuUIData : UIItem
     {

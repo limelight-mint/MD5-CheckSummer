@@ -1,6 +1,6 @@
-﻿namespace MD5_CheckSummer
+﻿namespace LLM.MD5_CheckSummer
 {
-    partial class MD5_CheckSummer
+    partial class CheckSummer
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MD5_CheckSummer));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CheckSummer));
             browseButton = new Button();
             pathBox = new TextBox();
             folderBrowser = new FolderBrowserDialog();

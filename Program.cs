@@ -1,4 +1,4 @@
-namespace MD5_CheckSummer
+namespace LLM.MD5_CheckSummer
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace MD5_CheckSummer
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new MD5_CheckSummer());
+            Application.Run(new CheckSummer());
         }
     }
 }

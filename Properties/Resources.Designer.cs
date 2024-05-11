@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MD5_CheckSummer.Properties {
+namespace LLM.MD5_CheckSummer.Properties {
     using System;
     
     
